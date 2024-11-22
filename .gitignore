@@ -1,0 +1,23 @@
+# Hugo-generated files
+/public/
+/resources/_gen/
+hugo_stats.json
+
+# Temporary files
+*.log
+*.bak
+*.swp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Executable binaries
+hugo.exe
+hugo.darwin
+hugo.linux
+
+# Local development settings
+.vscode/
+.idea/
+
