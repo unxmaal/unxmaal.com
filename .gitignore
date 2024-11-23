@@ -21,3 +21,8 @@ hugo.linux
 .vscode/
 .idea/
 
+# Terraform junk
+/terraform/.terraform/
+/terraform/*.tfstate*
+/terraform/plan.out
+/terraform.terraform.lock.hcl
